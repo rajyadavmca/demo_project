@@ -3,6 +3,7 @@ session_start();
 include_once("admin/includes/application.php");
 $id="6";
 
+//this is comment section
 $page_name=fetch_data($id, "iona_pages", "page_id", "page_title");
 $meta_title=fetch_data($id, "iona_pages", "page_id", "meta_title");
 $meta_desc=fetch_data($id, "iona_pages", "page_id", "meta_desc");
