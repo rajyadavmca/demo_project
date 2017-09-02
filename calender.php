@@ -5,14 +5,14 @@ $id="6";
 
 //this is comment section
 
-<<<<<<< Updated upstream
+
 //this is comment section
 //this is comment section
 //this is comment section
 //this is comment section
-=======
+
 //my name is rajendra
->>>>>>> Stashed changes
+
 $page_name=fetch_data($id, "iona_pages", "page_id", "page_title");
 $meta_title=fetch_data($id, "iona_pages", "page_id", "meta_title");
 $meta_desc=fetch_data($id, "iona_pages", "page_id", "meta_desc");
