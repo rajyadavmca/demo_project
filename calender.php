@@ -13,6 +13,10 @@ $id="6";
 
 //my name is rajendra
 
+
+//my name is rajendra yadav name comment 2
+
+
 $page_name=fetch_data($id, "iona_pages", "page_id", "page_title");
 $meta_title=fetch_data($id, "iona_pages", "page_id", "meta_title");
 $meta_desc=fetch_data($id, "iona_pages", "page_id", "meta_desc");
